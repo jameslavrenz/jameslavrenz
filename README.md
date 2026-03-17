@@ -1,9 +1,11 @@
-**Embedded Software Engineer | C/C++ | ARM Cortex-M | TinyML & Edge AI**
+## Embedded Software Engineer | C/C++ | ARM Cortex-M | TinyML & Edge AI
 
-Focused on building efficient, real-time embedded systems and deploying ML on resource-constrained hardware.
+I build efficient, real-time embedded systems and deploy machine learning on resource-constrained hardware.
 
-- Embedded firmware (bare-metal, RTOS)
-- DSP & TinyML on Cortex-M
-- Edge AI & embedded Linux
+- Embedded firmware (bare-metal, RTOS) on ARM Cortex-M
+- DSP and TinyML (feature extraction, quantized CNNs)
+- Edge AI and embedded Linux pipelines
 
-LinkedIn: [James Lavrenz](https://www.linkedin.com/in/jameslavrenz/)
+📌 Featured: TinyML keyword spotting (int8 CNN on Cortex-M4F)
+
+🔗 LinkedIn: [James Lavrenz](https://www.linkedin.com/in/jameslavrenz/)
