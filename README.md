@@ -1,4 +1,4 @@
-Embedded Software Engineer | C/C++ | ARM Cortex-M | TinyML & Edge AI
+**Embedded Software Engineer | C/C++ | ARM Cortex-M | TinyML & Edge AI**
 
 Focused on building efficient, real-time embedded systems and deploying ML on resource-constrained hardware.
 
