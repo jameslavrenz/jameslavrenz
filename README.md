@@ -6,6 +6,6 @@ I build efficient, real-time embedded systems with a specialization in Embedded 
 - TinyML, DSP (feature extraction, quantized CNNs)
 - Embedded AI/Edge AI and embedded Linux pipelines
 
-📌 Featured: Nueral network inference engine for MCUs/MPUs
+📌 Featured: Neural network inference engine for MCUs/MPUs
 
 🔗 LinkedIn: [James Lavrenz](https://www.linkedin.com/in/jameslavrenz/)
