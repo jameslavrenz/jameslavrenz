@@ -1,4 +1,4 @@
-## Embedded Software / Edge AI Engineer | C/C++ | RTOS | ARM Cortex-M | TinyML
+## Embedded Software Engineer | C/C++ | Embedded Linux | RTOS | ARM Cortex-M | Edge AI/TinyML | DSP | FPGA AI Acceleration
 
 I build efficient, real-time embedded systems with a specialization in Embedded AI.
 
