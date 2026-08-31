@@ -2,8 +2,8 @@
 
 I build efficient, real-time embedded systems.
 
-- Embedded firmware (bare-metal, RTOS) on ARM Cortex-M
-- Embedded Linux on ARM Cortex-A
+- Embedded firmware (bare-metal, RTOS) on Arm Cortex-M
+- Embedded Linux on Arm Cortex-A
 - DSP, TinyML (feature extraction, quantized CNNs), Edge AI
 
 📌 Featured: Neural network inference engine for MCUs/MPUs
