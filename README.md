@@ -1,10 +1,10 @@
-## Embedded Software Engineer | C/C++ | Embedded Linux | RTOS | ARM Cortex-M | Edge AI/TinyML | DSP | FPGA AI Acceleration
+## Embedded Software Engineer | C/C++ | Embedded Linux | RTOS | ARM Cortex-M/A
 
-I build efficient, real-time embedded systems with a specialization in Embedded AI.
+I build efficient, real-time embedded systems.
 
 - Embedded firmware (bare-metal, RTOS) on ARM Cortex-M
-- DSP, TinyML (feature extraction, quantized CNNs)
-- Embedded AI/Edge AI and embedded Linux pipelines
+- Embedded Linux on ARM Cortex-A
+- DSP, TinyML (feature extraction, quantized CNNs), Edge AI
 
 📌 Featured: Neural network inference engine for MCUs/MPUs
 
