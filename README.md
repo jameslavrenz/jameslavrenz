@@ -4,7 +4,7 @@ I build efficient, real-time embedded systems.
 
 - Embedded firmware (bare-metal, RTOS) on Arm Cortex-M
 - Embedded Linux on Arm Cortex-A
-- DSP, and Edge AI
+- Edge AI
 
 📌 Featured: Neural network inference engine for MCUs/MPUs
 
