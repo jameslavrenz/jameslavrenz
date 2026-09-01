@@ -1,4 +1,4 @@
-## Embedded Software Engineer | C/C++ | Embedded Linux | RTOS | Arm Cortex-M/A
+## Embedded Software Engineer | C/C++ | Embedded Linux | RTOS | Arm Cortex-M/A | Edge AI
 
 I build efficient, real-time embedded systems.
 
