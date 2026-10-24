@@ -8,8 +8,8 @@ I develop **embedded C/C++ software** across **embedded Linux, RTOS, and bare-me
 
 - **[KWSKit](https://github.com/NetKit-Labs/kwskit)** — Multithreaded **Zephyr RTOS** firmware on Cortex-M4F, with streaming audio, DSP, and measured hardware timing and memory usage.
 - **[MemKit](https://github.com/NetKit-Labs/memkit)** — Embedded C/C++ container library for MCUs and embedded Linux, supporting static, arena, and heap storage, lock-free utilities, and automated tests.
-- **[uartcom](https://github.com/jameslavrenz/uartcom)** — Register-level STM32F446RE USART driver and bare-metal C++ firmware, with interrupt-driven I/O, custom startup/clock configuration, and automated tests.
-- **[adxl345](https://github.com/jameslavrenz/adxl345)** — Custom Linux I²C accelerometer kernel module and C++ userspace library, with Raspberry Pi hardware validation and comparison against an existing Linux driver.
+- **[uartcom](https://github.com/NetKit-Labs/uartcom)** — Register-level STM32F446RE USART driver and bare-metal C++ firmware, with interrupt-driven I/O, custom startup/clock configuration, and automated tests.
+- **[adxl345](https://github.com/NetKit-Labs/adxl345)** — Custom Linux I²C accelerometer kernel module and C++ userspace library, with Raspberry Pi hardware validation and comparison against an existing Linux driver.
 
 #### Edge AI specialization
 
