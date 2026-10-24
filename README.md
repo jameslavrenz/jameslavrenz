@@ -14,7 +14,7 @@ I develop **embedded C/C++ software** across **embedded Linux, RTOS, and bare-me
 #### Edge AI specialization
 
 - **[NetKit](https://github.com/NetKit-Labs/netkit)** — Neural-network inference runtime for MCUs and embedded Linux, with INT8/float32 execution and cross-platform benchmarks.
-- **[NPUKit](https://github.com/NetKit-Labs/npukit)** — FPGA-based INT8 neural-network accelerator on Zynq-7020, featuring a SystemVerilog systolic array, AXI DMA, and hardware/software integration validated on a PYNQ-Z2 board.
+- **[NPUKit](https://github.com/NetKit-Labs/npukit)** — FPGA-based INT8 neural-network accelerator on Zynq-7020, featuring a SystemVerilog systolic array, AXI DMA, and hardware/software integration validated on physical hardware.
 
 More projects: [NetKit Labs](https://github.com/NetKit-Labs) · [Personal repositories](https://github.com/jameslavrenz?tab=repositories)
 
