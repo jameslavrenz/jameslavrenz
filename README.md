@@ -6,6 +6,8 @@ I develop **embedded C/C++ software** for **Arm Cortex-M microcontrollers** and 
 
 - **[KWSKit](https://github.com/NetKit-Labs/kwskit)** — Multithreaded **Zephyr RTOS** firmware on Cortex-M4F, with streaming audio, DSP, and measured hardware timing and memory usage.
 - **[MemKit](https://github.com/NetKit-Labs/memkit)** — Embedded C/C++ container library for MCUs and embedded Linux, supporting static, arena, and heap storage, lock-free utilities, and automated tests.
+- **[uartcom](https://github.com/jameslavrenz/uartcom)** — Register-level STM32F446RE USART driver and bare-metal C++ firmware, with interrupt-driven I/O, custom startup/clock configuration, and automated tests.
+- **[adxl345](https://github.com/jameslavrenz/adxl345)** — Custom Linux I²C accelerometer kernel module and C++ userspace library, with Raspberry Pi hardware validation and comparison against an existing Linux driver.
 - **[NetKit](https://github.com/NetKit-Labs/netkit)** — **Edge AI specialization:** neural-network inference runtime for MCUs and embedded Linux, with INT8/float32 execution and cross-platform benchmarks.
 
 More projects: [NetKit Labs](https://github.com/NetKit-Labs) · [Personal repositories](https://github.com/jameslavrenz?tab=repositories)
