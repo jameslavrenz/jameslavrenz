@@ -1,6 +1,6 @@
 ## Embedded Software Engineer | C/C++ | Embedded Linux | RTOS | Arm Cortex-M/A | Edge AI
 
-I develop **embedded C/C++ software** for **Arm Cortex-M microcontrollers** and **Cortex-A embedded Linux systems**, focusing on real-time firmware, RTOS and bare-metal development, device drivers, memory-efficient design, and performance. I also specialize in **Edge AI/TinyML** for resource-constrained devices.
+I develop **embedded C/C++ software** across **embedded Linux, RTOS, and bare-metal systems**, primarily targeting **Arm Cortex-M microcontrollers** and **Cortex-A-based platforms**. My work focuses on real-time software, device drivers, memory-efficient design, hardware/software integration, and performance. I also specialize in **Edge AI/TinyML** for resource-constrained devices.
 
 ### Selected engineering projects
 
