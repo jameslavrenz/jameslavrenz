@@ -21,7 +21,7 @@ My recent work focuses on **embedded AI inference engineering**: architecture-sp
 
 ### Selected engineering projects
 
-#### Embedded software & firmware
+#### Embedded Software & Firmware
 
 - **[KWSKit](https://github.com/NetKit-Labs/kwskit)** — Multithreaded **Zephyr RTOS** firmware on Cortex-M4F, with streaming audio, DSP, and measured hardware timing and memory usage.
 - **[adxl345](https://github.com/NetKit-Labs/adxl345)** — I²C accelerometer **Linux kernel driver** with interrupt-driven acquisition, C++ userspace library, automated tests, and hardware validation on Arm Cortex-A53.
