@@ -15,7 +15,7 @@ My recent work focuses on **embedded AI inference engineering**: architecture-sp
 
 ### External contributor report card
 
-<img src="assets/external-contributor-report-card.png" alt="AI-generated external contributor report card covering ESP-NN PR #46, ESP-DL PRs #347 and #346, and ESP-NN Issue #54" width="750">
+<img src="External%20Contributor%20Report%20Card%20Infographic.png" alt="AI-generated external contributor report card covering ESP-NN PR #46, ESP-DL PRs #347 and #346, and ESP-NN Issue #54" width="750">
 
 *AI-generated assessment of the technical work, not an official review or endorsement by Espressif or its maintainers.*
 
