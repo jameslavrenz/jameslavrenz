@@ -1,4 +1,4 @@
-# Senior Embedded Software Engineer | C/C++ | Embedded Linux/RTOS | AI Inference Optimization
+# Senior Embedded Software Engineer | C/C++ | Embedded Linux/RTOS | AI Inference & Performance Optimization
 
 I develop **embedded C/C++ software** across **embedded Linux, RTOS, and bare-metal systems**, targeting Arm Cortex-M/A, ESP32, and RISC-V platforms. My background includes real-time software, Linux device drivers, DSP, multithreading, memory-efficient design, hardware/software integration, and performance optimization, including work on aerospace and industrial systems.
 
