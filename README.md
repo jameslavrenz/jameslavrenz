@@ -27,7 +27,7 @@ My recent work focuses on **embedded AI inference engineering**: architecture-sp
 - **[adxl345](https://github.com/NetKit-Labs/adxl345)** — I²C accelerometer **Linux kernel driver** with interrupt-driven acquisition, C++ userspace library, automated tests, and hardware validation on Arm Cortex-A53.
 - **[uartcom](https://github.com/NetKit-Labs/uartcom)** — Register-level STM32F446RE USART **peripheral driver** and bare-metal C++ firmware, with interrupt-driven I/O, custom startup/clock configuration, and automated tests.
 
-#### Embedded AI & inference optimization
+#### Embedded AI: Inference Runtime Development & NPU Acceleration
 
 - **[NetKit](https://github.com/NetKit-Labs/netkit)** — Portable C++ FP32/INT8 neural-network inference runtime for MCUs and embedded Linux, integrating CMSIS-NN, ESP-NN, and XNNPACK, with selected INT8 kernels up to **10× faster** than TensorFlow Lite Micro reference implementations.
 - **[NPUKit](https://github.com/NetKit-Labs/npukit)** — FPGA-based INT8 neural-network accelerator on Zynq-7020, featuring an 8×8 SystemVerilog systolic GEMM array, AXI DMA tiling, and hardware/software integration validated on physical hardware.
