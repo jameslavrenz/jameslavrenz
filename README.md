@@ -13,11 +13,9 @@ My recent work focuses on **embedded AI inference engineering**: architecture-sp
 - **Google TensorFlow Lite Micro (TFLM) & Arm CMSIS-NN** — **Upstream contributions in development**, focused on embedded inference runtimes and optimized neural-network kernels.
 - **[MemKit](https://github.com/NetKit-Labs/memkit) — Creator & Maintainer** — Open-source embedded **C++26 container library with C++/C23 APIs**, comprising 14 C containers and 32 C++ utilities. Includes ring buffers, lock-free queues, maps, and pools with static/arena, heap, and virtual-memory backing for MCUs and embedded Linux. Earned **56 GitHub stars and 8 forks** soon after release.
 
-### External contributor report card
+### Selected Engineering Contributions
 
-<img src="External%20Contributor%20Report%20Card%20Infographic.png" alt="AI-generated external contributor report card covering ESP-NN PR #46, ESP-DL PRs #347 and #346, and ESP-NN Issue #54" width="750">
 
-*AI-generated assessment of the technical work, not an official review or endorsement by Espressif or its maintainers.*
 
 ### Selected engineering projects
 
