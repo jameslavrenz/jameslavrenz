@@ -1,0 +1,35 @@
+name: Render executive summary preview
+on:
+  push:
+    paths:
+      - .github/workflows/render-executive-summary.yml
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render first PDF page and embed static image in README
+        shell: bash
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils
+          pdftoppm -f 1 -l 1 -singlefile -scale-to-x 1600 -scale-to-y -1 -png "Executive Summary: Embedded Software & AI Performance.pdf" executive_summary_preview_1600
+          test -s executive_summary_preview_1600.png
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path("README.md")
+          md = path.read_text(encoding="utf-8")
+          old = "[**Executive Summary: Embedded Software & AI Performance (PDF)**](./Executive%20Summary%3A%20Embedded%20Software%20%26%20AI%20Performance.pdf)"
+          new = '<img src="./executive_summary_preview_1600.png" alt="Executive Summary: Embedded Software & AI Performance" width="1000">'
+          if old not in md:
+              raise SystemExit("Expected PDF link not found in README. No changes applied.")
+          path.write_text(md.replace(old, new, 1), encoding="utf-8")
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md executive_summary_preview_1600.png
+          git commit -m "docs(profile): embed static executive summary image"
+          git push
