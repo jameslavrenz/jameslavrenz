@@ -22,11 +22,14 @@ jobs:
           from pathlib import Path
           path = Path("README.md")
           md = path.read_text(encoding="utf-8")
-          old = "[**Executive Summary: Embedded Software & AI Performance (PDF)**](./Executive%20Summary%3A%20Embedded%20Software%20%26%20AI%20Performance.pdf)"
-          new = '<img src="./executive_summary_preview_1600.png" alt="Executive Summary: Embedded Software & AI Performance" width="1000">'
-          if old not in md:
-              raise SystemExit("Expected PDF link not found in README. No changes applied.")
-          path.write_text(md.replace(old, new, 1), encoding="utf-8")
+          first = "### Selected Engineering Contributions"
+          last = "### Selected engineering projects"
+          if md.count(first) != 1 or md.count(last) != 1:
+              raise SystemExit("Expected section headings not uniquely present.")
+          start = md.index(first)
+          end = md.index(last, start + len(first))
+          new = first + '\n\n<img src="./executive_summary_preview_1600.png" alt="Executive Summary: Embedded Software & AI Performance" width="1000">\n\n'
+          path.write_text(md[:start] + new + md[end:], encoding="utf-8")
           PY
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
