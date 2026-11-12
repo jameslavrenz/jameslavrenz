@@ -15,7 +15,7 @@ My recent work focuses on **embedded AI inference engineering**: architecture-sp
 
 ### Selected Engineering Contributions
 
-
+[**Executive Summary: Embedded Software & AI Performance (PDF)**](./Executive%20Summary%3A%20Embedded%20Software%20%26%20AI%20Performance.pdf)
 
 ### Selected engineering projects
 
